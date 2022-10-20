@@ -6,3 +6,4 @@ git branch -r
 ``` java
 System.out.println
 ```
++ git branch:查看本地有哪些分支
