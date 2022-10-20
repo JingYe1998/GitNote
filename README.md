@@ -20,3 +20,4 @@ System.out.println
 + git log --oneline :可以查看之前的紀錄修改那些東西
 + git log :可以查看修改的細節(時間、作者)
 + git checkout 某個hashcode :可以回到某個時間點
++ git push -f :強制push到remote (be careful他不會管是否同步)
