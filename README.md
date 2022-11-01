@@ -42,3 +42,4 @@ pull=fetch(獲得遠端進度)+merge(將遠端跟本地端)
 + git revert :取消merge
 + git branch -D develop:刪除develop分支
 
++ git merge ajaxTest:若當前分支是Jean_dev，意思就是:把ajaxTest這個分支的進度merge到Jean_dev裡面，Jean_dev就是最新的版本 
