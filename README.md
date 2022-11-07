@@ -40,3 +40,4 @@ System.out.println
 + git fetch origin develop tab tab:獲得遠端origin的進度
 + git merge ajaxTest:若當前分支是Jean_dev，意思就是:把ajaxTest這個分支的進度merge到Jean_dev裡面，Jean_dev就是最新的版本 
 + git revert :取消merge
+.
